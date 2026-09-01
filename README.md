@@ -1,4 +1,5 @@
 # ListIt 🥕
+https://list-it-ten.vercel.app/
 
 A grocery list app with multi-user accounts, built with JavaScript and Supabase.
 ## Features
